@@ -1,0 +1,3 @@
+cài:
+SQLEXPR_x64_ENU
+SQLManagementStudio_x64_ENU
